@@ -2,3 +2,6 @@
 /.settings
 /.mvn
 /mvnw.cmd
+mvnw
+demo.iml
+.talismanrc
